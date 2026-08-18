@@ -1,0 +1,8 @@
+{
+  "name": "Attendance",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "4879c2af"
+}
